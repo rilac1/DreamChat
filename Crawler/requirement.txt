@@ -1,0 +1,25 @@
+#라이브러리(python3 기반)
+Package        Version
+-------------- -------
+beautifulsoup4 4.9.1  
+bs4            0.0.1  
+get            0.0.0  
+pip            20.0.2 
+pkg-resources  0.0.0  
+post           0.0.0  
+query-string   0.0.0  
+request        0.0.0  
+selenium       3.141.0
+setuptools     44.0.0 
+soupsieve      2.0.1  
+urllib3        1.25.9
+
+pip3 install request
+pip3 install selenium
+pip3 install bs4
+
+#크롬 드라이버
+chromium-chromedriver 81.0.4044.129-0ubuntu0.20.04.1
+
+#크롬드라이버 경로 확보
+!whereis chromedriver

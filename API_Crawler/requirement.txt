@@ -1,0 +1,10 @@
+#python3-lib
+
+BeautifulSoup4 4.9.1
+selenium       3.141.0
+request        0.0.0  
+google-api-python-client 1.9.3 #google-api-python-client 1.9.3    
+
+
+#apt-package
+chromium-chromedriver 81.0.4044.129-0ubuntu0.20.04.1

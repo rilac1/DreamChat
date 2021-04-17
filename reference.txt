@@ -1,0 +1,16 @@
+1. twitch, youtube chat crawler
+https://github.com/benhoff/CHATIMUSMAXIMUS/
+
+<<<<<<< HEAD
+트위치 채팅 크롤링 :
+https://fishneverdies.tistory.com/30
+
+트위치 채팅 다운로더 :
+https://github.com/PetterKraabol/Twitch-Chat-Downloader
+=======
+2.자연어처리
+http://aidev.co.kr/nlp
+>>>>>>> 97c43a67c12459cf60fc08b449c75223f87eda92
+
+카카오 딥러닝 기반 형태소 분석기
+https://github.com/kakao/khaiii

@@ -1,0 +1,6 @@
+WIN = 필터 window (default: 7)
+TERM = 단일 하이라이트 최소 길이(sec) (defult: 10)
+START = 하이라이트 추출 시작 위치(sec) (default: 5*60)
+PER = 하이라이트 비율(%) (defult: 3)
+
+// 함수나 프로그램으로 바꿔서 위 변수들 인자로 받고 하이라이트 파일 json파일로 추출하면 끝날듯
