@@ -4,7 +4,7 @@ import pandas as pd
 from collections import Counter 
 from matplotlib import pyplot as plt
 
-with open("DreamChat/Samples/LCK/LCK_Summer_Split.json", encoding='UTF-8') as jFile:
+with open("../Samples/LCK/LCK_Summer_Split.json", encoding='UTF-8') as jFile:
     dict1 = json.load(jFile)
 
 # string to time
