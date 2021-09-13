@@ -53,9 +53,13 @@ while(hileng<lim):
         for t in H:
             hileng += t[1]-t[0]
     num+=1
-print(H)
-print("하이라이트 개수 :" + str(len(H)))
-print("하이라이트 길이 :" + str(hileng))
+
+for i, (left, right) in enumerate(H):
+    print('['+str(i+1)+'] ' + str(datetime.timedelta(seconds=int(left))) + ' ~ ' + 
+    str(datetime.timedelta(seconds=int(right))))
+
+print("하이라이트 개수: " + str(len(H)))
+print("하이라이트 길이: " + str(hileng))
 
 # visualization
 filtData.plot(figsize=(50,15), grid=True, title="Catch Highlights")
