@@ -14,9 +14,10 @@ setuptools     44.0.0
 soupsieve      2.0.1  
 urllib3        1.25.9
 
-pip3 install request
-pip3 install selenium
-pip3 install bs4
+!pip3 install requests
+!pip3 install selenium
+!pip3 install bs4
+!sudo apt-get install -y chromium-chromedriver
 
 #크롬 드라이버
 chromium-chromedriver 81.0.4044.129-0ubuntu0.20.04.1
